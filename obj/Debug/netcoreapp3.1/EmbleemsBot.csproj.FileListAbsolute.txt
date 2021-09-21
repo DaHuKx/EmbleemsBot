@@ -1,0 +1,17 @@
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\EmbleemsBot.exe
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\EmbleemsBot.deps.json
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\EmbleemsBot.runtimeconfig.json
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\EmbleemsBot.runtimeconfig.dev.json
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\EmbleemsBot.dll
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\EmbleemsBot.pdb
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\Проекты\Личные\EmbleemsBot\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Проекты\Личные\EmbleemsBot\obj\Debug\netcoreapp3.1\EmbleemsBot.csprojAssemblyReference.cache
+D:\Проекты\Личные\EmbleemsBot\obj\Debug\netcoreapp3.1\EmbleemsBot.AssemblyInfoInputs.cache
+D:\Проекты\Личные\EmbleemsBot\obj\Debug\netcoreapp3.1\EmbleemsBot.AssemblyInfo.cs
+D:\Проекты\Личные\EmbleemsBot\obj\Debug\netcoreapp3.1\EmbleemsBot.csproj.CoreCompileInputs.cache
+D:\Проекты\Личные\EmbleemsBot\obj\Debug\netcoreapp3.1\EmbleemsBot.csproj.CopyComplete
+D:\Проекты\Личные\EmbleemsBot\obj\Debug\netcoreapp3.1\EmbleemsBot.dll
+D:\Проекты\Личные\EmbleemsBot\obj\Debug\netcoreapp3.1\EmbleemsBot.pdb
+D:\Проекты\Личные\EmbleemsBot\obj\Debug\netcoreapp3.1\EmbleemsBot.genruntimeconfig.cache
