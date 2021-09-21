@@ -1,2 +1,2 @@
 # EmbleemsBot
- Needed a programm to Mailing my Photoshop Product in VK. So, I made this Bot
+ Needed a program to Mailing my Photoshop Product in VK. So, I made this Bot
