@@ -273,13 +273,16 @@ namespace EmbleemsBot
                         Thread.Sleep(3000);
                     }
                     element = Find("//div[@class = 'reply_field submit_post_field']");
+                    
                     string[] lines = text.Split('\n');
                     foreach (var line in lines)
                     {
                         element.SendKeys(line + (Keys.Shift + '\n'));
                     }
                     element.SendKeys(Keys.Enter);
+                    
                     Thread.Sleep(3000);
+                    
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("Done!\n");
                     Console.ResetColor();
