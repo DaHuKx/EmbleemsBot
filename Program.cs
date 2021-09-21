@@ -59,6 +59,10 @@ namespace EmbleemsBot
             Console.WriteLine("Starting work...");
             Error = Work(Brows, link, text, image);
             CheckError(Error);
+
+            Console.WriteLine("Press any key to close programm.");
+            Console.ReadKey();
+            return ;
         }
 
         static private void ErrorMessage(string str)
