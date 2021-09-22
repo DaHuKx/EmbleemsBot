@@ -31,6 +31,7 @@ namespace EmbleemsBot
             List<string> list = new List<string>();
 
             list.AddRange(reader.ReadToEnd().Split('\n'));
+            reader.Close();
 
             return list;
         }
